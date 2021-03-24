@@ -8,7 +8,6 @@ export default props => (
     <SafeAreaView style={{flex: 1}}>
         <NavigationContainer>
             <Tab />
-            {/* <Stack /> */}
         </NavigationContainer>
     </SafeAreaView>
 )
